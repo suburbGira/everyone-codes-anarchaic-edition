@@ -8,3 +8,7 @@ elif YourMomGay == 69:
     print(f'fuck you {username}')
 else:
     print('you are not right')
+input('eeeeeeeeeeeeeeeeaaahudidoosuwuwbnxjfi')
+def make_input(asdf):
+    return input(asdf)
+make_input(input('a? '))
